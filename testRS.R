@@ -1,0 +1,3 @@
+MyFunction<- function (){
+  cat("Hello!")
+}
